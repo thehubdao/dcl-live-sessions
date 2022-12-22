@@ -1,0 +1,347 @@
+{
+    "entityNumberCounter": 34,
+    "entities": [
+        {
+            "hierarchyOrder": 18.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 12,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.25,\"y\":2.25,\"z\":4.75},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.75,\"y\":1.0,\"z\":1.75}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"47dd13db-e8dc-4574-bdd2-acb5c2eeaf4d\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 15.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 15,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.5,\"y\":5.25,\"z\":6.0},\"rot\":{\"x\":0.0,\"y\":0.7933533191680908,\"z\":0.0,\"w\":0.6087614297866821},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"fe3b8ac5-3cb4-4cdd-a10e-4e9011de18cb\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 16.0,
+            "name": "Docks Module Stairs 01",
+            "uniqueNumber": 17,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":2.25,\"y\":-0.25,\"z\":2.75},\"rot\":{\"x\":0.0,\"y\":-0.7071065902709961,\"z\":0.0,\"w\":0.7071070671081543},\"scale\":{\"x\":1.0,\"y\":1.2493398189544678,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"ea672e8c-ab8d-480a-86ec-f0de406f8e57\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 13.0,
+            "name": "Docks Module Stairs 01",
+            "uniqueNumber": 18,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.22011137008667,\"y\":0.6775649785995483,\"z\":2.75},\"rot\":{\"x\":0.0,\"y\":-0.7071065902709961,\"z\":0.0,\"w\":0.7071070671081543},\"scale\":{\"x\":1.0,\"y\":1.2493398189544678,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"ea672e8c-ab8d-480a-86ec-f0de406f8e57\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 17.0,
+            "name": "Docks Module Stairs 01",
+            "uniqueNumber": 19,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.122581481933594,\"y\":1.5920236110687256,\"z\":2.750000238418579},\"rot\":{\"x\":0.0,\"y\":-0.7071065902709961,\"z\":0.0,\"w\":0.7071070671081543},\"scale\":{\"x\":1.0,\"y\":1.2493398189544678,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"ea672e8c-ab8d-480a-86ec-f0de406f8e57\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 11.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 20,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":12.229999542236329,\"y\":0.0,\"z\":1.5},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 12.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 21,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.371999740600586,\"y\":0.0,\"z\":1.5},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 14.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 22,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.654999732971192,\"y\":0.0,\"z\":4.192257404327393},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 8.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 23,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.824000358581543,\"y\":0.0,\"z\":4.22599983215332},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 6.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 24,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.371999740600586,\"y\":0.0,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 7.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 25,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.25,\"y\":2.25,\"z\":11.25},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.75,\"y\":1.0,\"z\":1.75}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"47dd13db-e8dc-4574-bdd2-acb5c2eeaf4d\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 9.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 26,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":12.229999542236329,\"y\":0.0,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 10.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 27,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.654999732971192,\"y\":0.0,\"z\":10.692256927490235},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 28,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.824000358581543,\"y\":0.0,\"z\":10.75},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 29,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.5,\"y\":2.25,\"z\":11.25},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.75,\"y\":1.0,\"z\":1.75}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"47dd13db-e8dc-4574-bdd2-acb5c2eeaf4d\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 4.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 30,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.904999732971191,\"y\":0.0,\"z\":10.692256927490235},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 31,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":5.074000358581543,\"y\":0.0,\"z\":10.75},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 32,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":5.479999542236328,\"y\":0.0,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 5.0,
+            "name": "Fence Sticks End 01",
+            "uniqueNumber": 33,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.5,\"y\":0.0,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":3.0,\"y\":3.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3ca0a847-c338-43ca-91ec-4c110a81a2a8\"}"
+                }
+            ]
+        }
+    ]
+}

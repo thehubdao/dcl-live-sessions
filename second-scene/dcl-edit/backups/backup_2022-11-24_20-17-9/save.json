@@ -1,0 +1,245 @@
+{
+    "entityNumberCounter": 53,
+    "entities": [
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Floor Base Grass 01",
+            "uniqueNumber": 36,
+            "parent": -1,
+            "uniqueId": "2ddfdf6b-c782-478b-aace-e7279a29aa35",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":0.0,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0fb67ea-8ad4-46b4-b71e-053bf54fb035\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 9.0,
+            "name": "Construction Fence 01",
+            "uniqueNumber": 41,
+            "parent": -1,
+            "uniqueId": "e3b5a4cc-484a-4eb3-80ab-6d0eae30c55f",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.5,\"y\":0.0,\"z\":5.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"0289c786-2de9-4a12-9f50-6cce4ed58056\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 10.0,
+            "name": "Construction Cone 01",
+            "uniqueNumber": 43,
+            "parent": -1,
+            "uniqueId": "baac1c63-b286-4256-ae72-14e96b2ac1d8",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.5,\"y\":0.0,\"z\":3.25},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"bbc95c15-4f13-448a-814b-01eb8fa9b94a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 11.0,
+            "name": "Construction Ladder 01",
+            "uniqueNumber": 44,
+            "parent": -1,
+            "uniqueId": "707ba14c-e5c3-4c65-b6b4-9a182563223f",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":3.5,\"y\":0.0,\"z\":11.75},\"rot\":{\"x\":0.0,\"y\":0.25881898403167727,\"z\":0.0,\"w\":0.9659258723258972},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"395de2a8-45f0-45b6-a3be-ce4046da64db\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Construction Fence 01",
+            "uniqueNumber": 45,
+            "parent": -1,
+            "uniqueId": "61a8d02b-7691-4237-b9f6-8254ba07ff2a",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.5,\"y\":0.0,\"z\":7.75},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"0289c786-2de9-4a12-9f50-6cce4ed58056\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Construction Fence 01",
+            "uniqueNumber": 46,
+            "parent": -1,
+            "uniqueId": "d395dc5a-de50-4db8-bcde-c9c5f94e7166",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.5,\"y\":0.0,\"z\":10.75},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"0289c786-2de9-4a12-9f50-6cce4ed58056\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 7.0,
+            "name": "Construction Fence 01",
+            "uniqueNumber": 47,
+            "parent": -1,
+            "uniqueId": "95a6c3c5-7ca0-4fd3-8c1d-a67c4cd4e247",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":5.25,\"y\":0.0,\"z\":1.25},\"rot\":{\"x\":0.0,\"y\":0.6374239921569824,\"z\":0.0,\"w\":0.7705132365226746},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"0289c786-2de9-4a12-9f50-6cce4ed58056\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 8.0,
+            "name": "Construction Fence 01",
+            "uniqueNumber": 48,
+            "parent": -1,
+            "uniqueId": "262d328e-8cd7-437c-99bf-c1f825482e64",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":0.0,\"z\":1.0},\"rot\":{\"x\":0.0,\"y\":0.6794412732124329,\"z\":0.0,\"w\":0.733729898929596},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"0289c786-2de9-4a12-9f50-6cce4ed58056\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 6.0,
+            "name": "Construction Fence 01",
+            "uniqueNumber": 49,
+            "parent": -1,
+            "uniqueId": "d4a8387e-fdb6-4724-8354-3df8dfbb092b",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.5,\"y\":0.0,\"z\":0.75},\"rot\":{\"x\":0.0,\"y\":0.7477983832359314,\"z\":0.0,\"w\":0.6639259457588196},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"0289c786-2de9-4a12-9f50-6cce4ed58056\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 5.0,
+            "name": "Construction Cone 01",
+            "uniqueNumber": 50,
+            "parent": -1,
+            "uniqueId": "2baadfe0-9cac-4f1d-9349-b272343af786",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.5,\"y\":0.0,\"z\":2.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"bbc95c15-4f13-448a-814b-01eb8fa9b94a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Construction Cone 01",
+            "uniqueNumber": 51,
+            "parent": -1,
+            "uniqueId": "51992f1b-db4d-4330-b779-229281a8ecba",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":3.5,\"y\":0.0,\"z\":1.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"bbc95c15-4f13-448a-814b-01eb8fa9b94a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 4.0,
+            "name": "Construction Cone 01",
+            "uniqueNumber": 52,
+            "parent": -1,
+            "uniqueId": "9934600b-2575-4a92-a1d3-8ba1d3dc3386",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":2.5,\"y\":0.0,\"z\":1.25},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"bbc95c15-4f13-448a-814b-01eb8fa9b94a\"}"
+                }
+            ]
+        }
+    ]
+}
