@@ -1,0 +1,1 @@
+export let imageBaseUrl = "http://localhost/"
