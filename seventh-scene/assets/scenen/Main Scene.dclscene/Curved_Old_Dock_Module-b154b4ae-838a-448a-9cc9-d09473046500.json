@@ -1,0 +1,69 @@
+{
+  "customName": "Curved Old Dock Module",
+  "guid": "b154b4ae-838a-448a-9cc9-d09473046500",
+  "parentGuid": null,
+  "isExposed": false,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 12.0851135,
+            "y": 6.74396563,
+            "z": 4.909247
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "nameInCode": "GLTFShape",
+      "nameOfSlot": "Shape",
+      "properties": [
+        {
+          "name": "asset",
+          "type": "Asset",
+          "fixedValue": "1e935856-0211-44dc-a37b-7cc01c9f49bb"
+        },
+        {
+          "name": "visible",
+          "type": "Boolean",
+          "fixedValue": true
+        },
+        {
+          "name": "withCollisions",
+          "type": "Boolean",
+          "fixedValue": true
+        },
+        {
+          "name": "isPointerBlocker",
+          "type": "Boolean",
+          "fixedValue": true
+        }
+      ]
+    }
+  ],
+  "dclEditVersionNumber": "0.9.5"
+}

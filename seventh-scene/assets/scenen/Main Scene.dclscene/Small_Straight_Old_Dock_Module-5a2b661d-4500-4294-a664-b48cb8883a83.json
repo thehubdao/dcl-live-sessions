@@ -1,0 +1,69 @@
+{
+  "customName": "Small Straight Old Dock Module",
+  "guid": "5a2b661d-4500-4294-a664-b48cb8883a83",
+  "parentGuid": null,
+  "isExposed": false,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 8.589733,
+            "y": 6.775261,
+            "z": 3.13593221
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": -0.706934333,
+            "z": 0.0,
+            "w": 0.7072792
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "nameInCode": "GLTFShape",
+      "nameOfSlot": "Shape",
+      "properties": [
+        {
+          "name": "asset",
+          "type": "Asset",
+          "fixedValue": "cac0e963-62e0-471a-b4bc-dc6738939820"
+        },
+        {
+          "name": "visible",
+          "type": "Boolean",
+          "fixedValue": true
+        },
+        {
+          "name": "withCollisions",
+          "type": "Boolean",
+          "fixedValue": true
+        },
+        {
+          "name": "isPointerBlocker",
+          "type": "Boolean",
+          "fixedValue": true
+        }
+      ]
+    }
+  ],
+  "dclEditVersionNumber": "0.9.5"
+}

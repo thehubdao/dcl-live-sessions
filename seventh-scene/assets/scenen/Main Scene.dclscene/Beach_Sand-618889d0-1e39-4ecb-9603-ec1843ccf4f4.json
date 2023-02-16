@@ -1,0 +1,69 @@
+{
+  "customName": "Beach Sand",
+  "guid": "618889d0-1e39-4ecb-9603-ec1843ccf4f4",
+  "parentGuid": null,
+  "isExposed": false,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 8.0,
+            "y": 0.0,
+            "z": 8.0
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "nameInCode": "GLTFShape",
+      "nameOfSlot": "Shape",
+      "properties": [
+        {
+          "name": "asset",
+          "type": "Asset",
+          "fixedValue": "0ee02d9e-7d23-42d9-a0c9-e1394ac0a98a"
+        },
+        {
+          "name": "visible",
+          "type": "Boolean",
+          "fixedValue": true
+        },
+        {
+          "name": "withCollisions",
+          "type": "Boolean",
+          "fixedValue": true
+        },
+        {
+          "name": "isPointerBlocker",
+          "type": "Boolean",
+          "fixedValue": true
+        }
+      ]
+    }
+  ],
+  "dclEditVersionNumber": "0.9.5"
+}

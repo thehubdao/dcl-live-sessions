@@ -1,0 +1,43 @@
+{
+  "customName": "Teleport View Target",
+  "guid": "14ec8acf-f61e-2df6-b02a-7864fdfc0b6f",
+  "parentGuid": null,
+  "isExposed": true,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 12.2094784,
+            "y": 7.220228,
+            "z": 6.83116627
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "dclEditVersionNumber": "0.9.5"
+}

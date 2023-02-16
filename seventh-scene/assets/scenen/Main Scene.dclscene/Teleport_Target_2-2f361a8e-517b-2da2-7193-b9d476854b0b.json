@@ -1,0 +1,43 @@
+{
+  "customName": "Teleport Target 2",
+  "guid": "2f361a8e-517b-2da2-7193-b9d476854b0b",
+  "parentGuid": null,
+  "isExposed": true,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 8.82373,
+            "y": 7.714299,
+            "z": 3.102036
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "dclEditVersionNumber": "0.9.5"
+}
