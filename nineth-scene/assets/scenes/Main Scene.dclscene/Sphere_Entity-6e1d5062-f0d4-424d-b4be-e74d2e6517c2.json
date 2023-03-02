@@ -1,0 +1,49 @@
+{
+  "customName": "Sphere Entity",
+  "guid": "6e1d5062-f0d4-424d-b4be-e74d2e6517c2",
+  "parentGuid": null,
+  "hierarchyOrder": 6.0,
+  "isExposed": true,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 15.0,
+            "y": 0.5,
+            "z": 12.5
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "nameInCode": "SphereShape",
+      "nameOfSlot": "Shape",
+      "properties": []
+    }
+  ],
+  "dclEditVersionNumber": "1.0.1"
+}

@@ -1,0 +1,55 @@
+{
+  "customName": "Child Scene entity",
+  "guid": "e4c156c3-920c-a555-b535-b6f087b42e6f",
+  "parentGuid": null,
+  "hierarchyOrder": 8.0,
+  "isExposed": true,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 24.0,
+            "y": 0.0,
+            "z": 4.0
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "nameInCode": "Scene",
+      "nameOfSlot": "Scene",
+      "properties": [
+        {
+          "name": "sceneId",
+          "type": "String",
+          "fixedValue": "efd0f132-e178-4c8d-9984-b06f526bfa26"
+        }
+      ]
+    }
+  ],
+  "dclEditVersionNumber": "1.0.1"
+}
